@@ -1,7 +1,10 @@
 {
-  "name": "axios-vcr",
+  "name": "@growflow/axios-vcr",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.2",
-  "description": "axios-vcr is a set of middlewares for axios that allow you to record and replay requests.",
+  "description": "Forked axios-vcr to support XML payloads.",
   "main": "index.js",
   "homepage": "http://github.com/nettofarah/axios-vcr",
   "scripts": {
